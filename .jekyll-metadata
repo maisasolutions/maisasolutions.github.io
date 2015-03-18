@@ -936,7 +936,7 @@
   mtime: 2015-02-15 15:15:18.000000000 +05:30
   deps: []
 /home/maisa31/Desktop/JEKYLL-MPRIDE786/maisasolutions.github.io/js/agency.js:
-  mtime: 2015-03-05 15:33:59.451029000 +05:30
+  mtime: 2015-03-18 14:04:00.735777961 +05:30
   deps: []
 /home/maisa31/Desktop/JEKYLL-MPRIDE786/maisasolutions.github.io/js/bootstrap.js:
   mtime: 2015-03-05 15:33:59.451029000 +05:30
@@ -975,10 +975,10 @@
   mtime: 2015-03-05 15:33:59.427029000 +05:30
   deps: []
 /home/maisa31/Desktop/JEKYLL-MPRIDE786/maisasolutions.github.io/_includes/header.html:
-  mtime: 2015-03-18 13:44:23.947746447 +05:30
+  mtime: 2015-03-18 14:22:20.287807406 +05:30
   deps: []
 /home/maisa31/Desktop/JEKYLL-MPRIDE786/maisasolutions.github.io/_includes/css/agency.css:
-  mtime: 2015-03-17 18:55:37.896353211 +05:30
+  mtime: 2015-03-18 14:23:58.087810025 +05:30
   deps: []
 /home/maisa31/Desktop/JEKYLL-MPRIDE786/maisasolutions.github.io/_includes/services.html:
   mtime: 2015-03-07 16:47:41.862946069 +05:30
@@ -991,4 +991,13 @@
   deps: []
 /home/maisa31/Desktop/JEKYLL-MPRIDE786/maisasolutions.github.io/_includes/about.html:
   mtime: 2015-03-17 17:55:32.876294768 +05:30
+  deps: []
+/home/maisa31/Desktop/JEKYLL-MPRIDE786/maisasolutions.github.io/_includes/team.html:
+  mtime: 2015-03-07 17:41:16.415032152 +05:30
+  deps: []
+/home/maisa31/Desktop/JEKYLL-MPRIDE786/maisasolutions.github.io/_includes/clients.html:
+  mtime: 2015-03-11 15:32:09.891623491 +05:30
+  deps: []
+/home/maisa31/Desktop/JEKYLL-MPRIDE786/maisasolutions.github.io/_includes/enquire.html:
+  mtime: 2015-03-18 12:41:53.559646015 +05:30
   deps: []

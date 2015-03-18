@@ -322,11 +322,9 @@ width: 90%;
     font-weight:bold; 
 }
 
-.we_off h3{
+.we_off {
     font-size:1.5em;
     color: #3B4854;
-    margin-left: 94px;
-    margin-top: 32px;
     font-family: -webkit-body;
     font-weight:bold; 
 }
