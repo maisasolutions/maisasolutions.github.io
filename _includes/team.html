@@ -11,7 +11,7 @@
                 {% for member in site.people %}
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+                        <img src="../img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
                         <h4>{{ member.name }}</h4>
                         <p class="text-muted">{{ member.position }}</p>
                         <ul class="list-inline social-buttons">
@@ -37,15 +37,15 @@
     <!-- <section id="portfolio" class="bg-light-gray"> -->
 
 
-<!-- 
+<!--
     <section id="portfolio" class="bg-light-gra">
         <div class="container">
- 
+
             <div class="col-md-12">
-     
- 
+
+
                 <h3 class="section-subheading"></h3>
-   
+
             {% for post in site.posts %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
@@ -54,7 +54,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive" alt="">
+                        <img src="../img/portfolio/{{ post.thumbnail }}" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>{{ post.title }}</h4>
